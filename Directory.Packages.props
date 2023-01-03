@@ -63,9 +63,4 @@
     <PackageVersion Include="MSTest.TestFramework" Version="3.0.1" />
     <PackageVersion Include="coverlet.collector" Version="3.2.0" />
   </ItemGroup>
-  <Content Remove="file_name"/>
-<None Include="file_name">
-  <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
-  <CopyToPublishDirectory>Never</CopyToPublishDirectory>
-</None>
 </Project>
