@@ -35,10 +35,22 @@
                 },
                 {
                     "language":"fr",
-                    "content":"Titre du template trois!"
+                    "content":"Titre du template trois!!!"
+                }
+            ]
+         },
+         {
+            "title" : "Titre du template 4",
+            "languages": [
+                {
+                    "language":"en",
+                    "content":"Title template four."
+                },
+                {
+                    "language":"fr",
+                    "content":"Titre du template quatre."
                 }
             ]
          }
-
     ]
 }
