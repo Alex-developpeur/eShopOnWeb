@@ -1,35 +1,41 @@
 {
     "templates":[
          {
-            "titre" : "Titre du template 1",
+            "title" : "Titre du template 1",
             "languages": [
                 {
-                    "en":"Title template one."
+                    "language":"en",
+                    "content":"Title template one."
                 },
                 {
-                    "fr":"Titre du template un."
+                    "language":"fr",
+                    "content":"Titre du template un."
                 }
             ]
          },   
          {
-            "titre" : "Titre du template 2",
+            "title" : "Titre du template 2",
             "languages": [
                 {
-                    "en":"Title template two."
+                    "language":"en",
+                    "content":"Title template two."
                 },
                 {
-                    "fr":"Titre du template deux."
+                    "language":"fr",
+                    "content":"Titre du template deux."
                 }
             ]
          },
          {
-            "titre" : "Titre du template 3",
+            "title" : "Titre du template 3",
             "languages": [
                 {
-                    "en":"Title template three."
+                    "language":"en",
+                    "content":"Title template three."
                 },
-                {                
-                    "fr":"Titre du template trois."
+                {
+                    "language":"fr",
+                    "content":"Titre du template trois."
                 }
             ]
          }
