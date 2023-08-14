@@ -4,7 +4,9 @@
             "titre" : "Titre du template 1",
             "languages": [
                 {
-                    "en":"Title template one.",
+                    "en":"Title template one."
+                },
+                {
                     "fr":"Titre du template un."
                 }
             ]
@@ -13,7 +15,9 @@
             "titre" : "Titre du template 2",
             "languages": [
                 {
-                    "en":"Title template two.",
+                    "en":"Title template two."
+                },
+                {
                     "fr":"Titre du template deux."
                 }
             ]
@@ -22,7 +26,9 @@
             "titre" : "Titre du template 3",
             "languages": [
                 {
-                    "en":"Title template three.",
+                    "en":"Title template three."
+                },
+                {                
                     "fr":"Titre du template trois."
                 }
             ]
