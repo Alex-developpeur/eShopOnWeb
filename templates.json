@@ -12,7 +12,7 @@
          {
             "titre" : "Titre du template 2",
             "languages": [
-                {
+                {²
                     "en":"Title template two.",
                     "fr":"Titre du template deux."
                 }
