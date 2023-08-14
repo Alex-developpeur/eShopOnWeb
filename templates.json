@@ -1,32 +1,5 @@
-{
-    "templates":[
-         {
-            "titre" : "Titre du template 1",
-            "languages": [
-                {
-                    "en":"Title template one.",
-                    "fr":"Titre du template un."
-                }
-            ]
-         },   
-         {
-            "titre" : "Titre du template 2",
-            "languages": [
-                {
-                    "en":"Title template two.",
-                    "fr":"Titre du template deux."
-                }
-            ]
-         },
-         {
-            "titre" : "Titre du template 3",
-            "languages": [
-                {
-                    "en":"Title template three.",
-                    "fr":"Titre du template trois."
-                }
-            ]
-         }
-
-    ]
-}
+[
+    {"templateId":"1","templateName":"test-1","templateBody":"test 1"},
+    {"templateId":"2","templateName":"test-2","templateBody":"test 2"},
+    {"templateId":"3","templateName":"test-3","templateBody":"test 3"}
+]
