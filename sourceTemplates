@@ -48,7 +48,7 @@
                 },
                 {
                     "language":"fr",
-                    "content":"Titre du template quatre."
+                    "content":"Titre du template quatre!!!"
                 }
             ]
          },
@@ -62,6 +62,19 @@
                 {
                     "language":"fr",
                     "content":"Titre du template cinq."
+                }
+            ]
+         },
+         {
+            "title" : "Titre du template 6",
+            "languages": [
+                {
+                    "language":"en",
+                    "content":"Title template six."
+                },
+                {
+                    "language":"fr",
+                    "content":"Titre du template six."
                 }
             ]
          }
