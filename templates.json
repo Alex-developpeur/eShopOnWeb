@@ -1,5 +1,82 @@
-[
-    {"templateId":"1","templateName":"test-1","templateBody":"test 1"},
-    {"templateId":"2","templateName":"test-2","templateBody":"test 2"},
-    {"templateId":"3","templateName":"test-3","templateBody":"test 3"}
-]
+{
+    "templates":[
+         {
+            "title" : "Titre du template 1",
+            "languages": [
+                {
+                    "language":"en",
+                    "content":"Title template one."
+                },
+                {
+                    "language":"fr",
+                    "content":"Titre du template un."
+                }
+            ]
+         },   
+         {
+            "title" : "Titre du template 2",
+            "languages": [
+                {
+                    "language":"en",
+                    "content":"Title template two."
+                },
+                {
+                    "language":"fr",
+                    "content":"Titre du template deux."
+                }
+            ]
+         },
+         {
+            "title" : "Titre du template 3",
+            "languages": [
+                {
+                    "language":"en",
+                    "content":"Title template three."
+                },
+                {
+                    "language":"fr",
+                    "content":"Titre du template trois."
+                }
+            ]
+         },
+         {
+            "title" : "Titre du template 4",
+            "languages": [
+                {
+                    "language":"en",
+                    "content":"Title template four."
+                },
+                {
+                    "language":"fr",
+                    "content":"Titre du template quatre."
+                }
+            ]
+         },
+         {
+            "title" : "Titre du template 5",
+            "languages": [
+                {
+                    "language":"en",
+                    "content":"Title template five."
+                },
+                {
+                    "language":"fr",
+                    "content":"Titre du template cinq."
+                }
+            ]
+         },
+         {
+            "title" : "Titre du template 6",
+            "languages": [
+                {
+                    "language":"en",
+                    "content":"Title template six."
+                },
+                {
+                    "language":"fr",
+                    "content":"Titre du template six."
+                }
+            ]
+         }
+    ]
+}
