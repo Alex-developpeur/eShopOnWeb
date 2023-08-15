@@ -40,38 +40,13 @@
             ]
          },
          {
-            "title" : "Titre du template 4",
-            "languages": [
-                {
-                    "language":"en",
-                    "content":"Title template four."
-                },
-                {
-                    "language":"fr",
-                    "content":"Titre du template quatre!!!"
-                }
-            ]
          },
          {
-            "title" : "Titre du template 5",
-            "languages": [
-                {
-                    "language":"en",
-                    "content":"Title template five."
-                },
-                {
-                    "language":"fr",
-                    "content":"Titre du template cinq."
-                }
-            ]
+            "title" : "Titre du template 5"
          },
          {
             "title" : "Titre du template 6",
             "languages": [
-                {
-                    "language":"en",
-                    "content":"Title template six."
-                },
                 {
                     "language":"fr",
                     "content":"Titre du template six."
